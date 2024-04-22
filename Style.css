@@ -1,0 +1,52 @@
+.page-heading {
+    font-size: 24px; 
+    margin-bottom: 10px;
+    margin-left: 60px;
+}
+
+.secondary-text {
+    font-size: 16px; 
+    color: gray; 
+
+}
+.image container{
+    text-align: center;
+}
+
+.image-item {
+    display: inline-block; 
+    vertical-align: top; 
+
+    text-align: left; 
+    margin: 0; 
+    margin-right: 5px;
+    margin-left:80px
+}
+
+.image-item img {
+    height: 200px;
+    width: auto;
+}
+.caption{
+    
+    color: blue;
+    font-size: 20px;
+}
+.add{
+    color:black;
+    font-size:15px;
+    margin: 0; 
+    margin-right: -5px;
+}
+   
+    
+
+.topnav {
+    background-color: black;
+    overflow: hidden;
+
+}
+.topnav a{
+    text-align: left;
+    padding: 5px 7px;
+}
